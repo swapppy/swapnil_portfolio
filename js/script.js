@@ -222,7 +222,7 @@ return items[Math.floor(Math.random()*items.length)];
      
 }
 
-var items = ['https://assets5.lottiefiles.com/packages/lf20_fxpvtkid.json'];
+var items = ['https://assets6.lottiefiles.com/packages/lf20_zyznkobp.json'];
 
 var songs = ['songs/song1.mpeg']
 
